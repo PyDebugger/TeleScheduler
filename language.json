@@ -1,0 +1,240 @@
+{
+  "greetings":
+  {
+    "ru": "Привет! Я твой персональный планировщик. Чем могу помочь?",
+    "en": "Hi! I'm your personal planner. How can I help you?",
+    "kz": "Сәлем! Мен сіздің жеке жоспарлаушысыз. Мен сізге қалай көмектесе аламын?"
+  },
+  "lack_schedule":
+  {
+    "ru": "У вас нет расписания!",
+    "en": "You don't have a schedule!",
+    "kz": "Кесте жоқ!"
+  },
+  "Waiting_processing":
+  {
+    "ru": "Подождите, идет обработка...",
+    "en": "Wait, processing is underway...",
+    "kz": "Күте тұрыңыз, өңдеу жүріп жатыр..."
+  },
+  "Saving_OT_event":
+  {
+    "ru": "Разовое событие сохранено!",
+    "en": "The one-time event has been saved!",
+    "kz": "Бір реттік оқиға сақталды!"
+  },
+  "Saving_regular_event":
+  {
+    "ru": "Событие сохранено!",
+    "en": "The event is saved!",
+    "kz": "Оқиға сақталды!"
+  },
+  "Deleting_event":
+  {
+    "ru": "Событие удалено!",
+    "en": "The event has been deleted!",
+    "kz": "Оқиға жойылды!"
+  },
+  "select_weekday":
+  {
+    "ru": "Выберите день недели:",
+    "en": "Choose a day of the week:",
+    "kz": "Аптаның күнін таңдаңыз:"
+  },
+  "Select_time":
+  {
+    "ru": "Выберите время:",
+    "en": "Choose a time:",
+    "kz": "Уақытты таңдаңыз:"
+  },
+  "Your_time":
+  {
+    "ru": "Ваше время:",
+    "en": "Your time:",
+    "kz": "Сіздің уақытыңыз:"
+  },
+  "Put_ivent":
+  {
+    "ru": "Введите событие:",
+    "en": "Enter the event:",
+    "kz": "Оқиғаны енгізіңіз:"
+  },
+  "Add_schedule":
+  {
+    "ru": "Добавить расписание",
+    "en": "Add schedule",
+    "kz": "Кестені қосу"
+  },
+    "Delete_schedule":
+    {
+        "ru": "Удалить расписание",
+        "en": "Delete schedule",
+        "kz": "Кестені жою"
+    },
+  "View_schedule":
+  {
+    "ru": "Просмотреть расписание",
+    "en": "View schedule",
+    "kz": "Кестені қарау"
+  },
+  "Regular_event":
+  {
+    "ru": "Регулярные событие",
+    "en": "Regular event",
+    "kz": "Регулярлық оқиға"
+  },
+    "One_time_event":
+    {
+        "ru": "Разовые событие",
+        "en": "One-time event",
+        "kz": "Бір реттік оқиға"
+    },
+  "Add":
+  {
+    "ru": "Добавить",
+    "en": "Add",
+    "kz": "Қосу"
+  },
+  "Delete":
+  {
+    "ru": "Удалить",
+    "en": "Delete",
+    "kz": "Алып Тастау..."
+  },
+  "cancel":
+  {
+    "ru": "Отмена",
+    "en": "Cancel",
+    "kz": "Болдырмау"
+  },
+  "Incorrect_time":
+  {
+    "ru": "Некорректное время!",
+    "en": "Incorrect time!",
+    "kz": "Уақыт дұрыс емес!"
+  },
+  "select_event_type":
+    {
+        "ru": "Выберите тип события:",
+        "en": "Choose the type of event:",
+        "kz": "Оқиғаның түрін таңдаңыз:"
+    },
+  "Number_event_delete":
+    {
+        "ru": "Введите номер события, которое хотите удалить:",
+        "en": "Enter the number of the event you want to delete:",
+        "kz": "Жою керек оқиғаның нөмірін енгізіңіз:"
+    },
+  "Incorrect_number_event":
+    {
+        "ru": "Некорректный номер события!",
+        "en": "Incorrect event number!",
+        "kz": "Оқиғаның нөмірі дұрыс емес!"
+    },
+  "you_dont_have_onte_time_event":
+    {
+        "ru": "У вас нет разовых событий!",
+        "en": "You don't have one-time events!",
+        "kz": "Сізде бір реттік оқиғалар жоқ!"
+    },
+  "button_save":
+    {
+        "ru": "Сохранить",
+        "en": "Save",
+        "kz": "Сақтау"
+    },
+  "button_cancel":
+    {
+        "ru": "Отменить",
+        "en": "Cancel",
+        "kz": "Болдырмау"
+    },
+  "question_save_event":
+    {
+        "ru": "Сохранить событие?",
+        "en": "Save the event?",
+        "kz": "Оқиғаны сақтау?"
+    },
+  "Reminders":
+    {
+        "ru": "Напоминания",
+        "en": "Reminders",
+        "kz": "Есте салулары"
+    },
+  "Incorrect_enter_for_one_time_event":
+    {
+        "ru": "Некорректный ввод для разового события!",
+        "en": "Incorrect input for a one-time event!",
+        "kz": "Бір реттік оқиға үшін дұрыс емес енгізу!"
+    },
+  "Question_correct_event":
+    {
+        "ru": "Правильное событие?",
+        "en": "Correct event?",
+        "kz": "Дұрыс оқиға?"
+    },
+  "Monday":
+    {
+        "ru": "Понедельник",
+        "en": "Monday",
+        "kz": "Дүйсенбі"
+    },
+    "Tuesday":
+        {
+            "ru": "Вторник",
+            "en": "Tuesday",
+            "kz": "Сейсенбі"
+        },
+    "Wednesday":
+        {
+            "ru": "Среда",
+            "en": "Wednesday",
+            "kz": "Сәрсенбі"
+        },
+    "Thursday":
+        {
+            "ru": "Четверг",
+            "en": "Thursday",
+            "kz": "Бейсенбі"
+        },
+    "Friday":
+        {
+            "ru": "Пятница",
+            "en": "Friday",
+            "kz": "Жұма"
+        },
+    "Saturday":
+        {
+            "ru": "Суббота",
+            "en": "Saturday",
+            "kz": "Сенбі"
+        },
+    "Sunday":
+        {
+            "ru": "Воскресенье",
+            "en": "Sunday",
+            "kz": "Жексенбі"
+        },
+  "One_time_event":
+    {
+        "ru": "Разовое событие",
+        "en": "One-time event",
+        "kz": "Бір реттік оқиға"
+    },
+  "Ivent":
+    {
+        "ru": "Событие",
+        "en": "Event",
+        "kz": "Оқиға"
+    },
+  "Time_before_event":
+    {
+        "ru": "За какое время до события мне нужно вам напомнить?",
+        "en": "How long before the event should I mention you?",
+        "kz": "Оқиғадан қалай бұрын мен сізге ескерту керек?"
+    }
+
+
+}
+
+
