@@ -6,7 +6,7 @@ import time
 from threading import Thread
 import assemblyai as aai
 
-bot = telebot.TeleBot('6673545734:AAFS9fmn_IwuGn4kOJ_xGknr7eO_MjYjWq0')
+bot = telebot.TeleBot('MY_TOKEN')
 
 
 # ----- Путь к файлу для хранения данных ------ #
@@ -576,7 +576,7 @@ def voice_processing(message):
         new_file.write(downloaded_file) # записать в файл голосовое сообщение
 
         # Работа с API AssemblyAI для распознавания голосового сообщения
-        aai.settings.api_key = f"78a951b11c914f4fae8a7ae4db4e2fcb"
+        aai.settings.api_key = f"TOKEN"
 
         FILE_URL = 'new_file.ogg' # путь к файлу
         config = aai.TranscriptionConfig(language_code="ru") # язык распознавания голосового сообщения
